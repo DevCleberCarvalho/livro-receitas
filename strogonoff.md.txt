@@ -1,0 +1,8 @@
+
+#Strogonoff de frango
+
+**Negrito**
+
+Autor não ensinou como baixar o typora free e nem como
+definir o uso default para arquivo com extensão 
+.md(markdown)
